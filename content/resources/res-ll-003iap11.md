@@ -5,7 +5,7 @@ description: "A synthetic aperture radar (SAR) image of Alexander Calder\u2019s 
   \ Google Maps satellite image \xA9 Google and GeoEye.  All rights reserved. This\
   \ content is excluded from our Creative Commons license. For more information, see\
   \ http://ocw.mit.edu/fairuse.)"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/b71bcfcc97f8bda90bf52381a48f82fb_res-ll-003iap11.jpg
+file: /media/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/b71bcfcc97f8bda90bf52381a48f82fb_res-ll-003iap11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "A synthetic aperture radar (SAR) image of Alexander Calder\u2019s sculpture\
@@ -17,6 +17,8 @@ image_metadata:
   credit: ''
   image-alt: A radar signal image superimposed on an overhead photo of a large steel
     scultpure, plus a photo of a student-built radar system.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-003iap11.jpg
 uid: b71bcfcc-97f8-bda9-0bf5-2381a48f82fb

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: SupplementalResourceSection
 title: Projects
 uid: aa720747-bfe2-cb8b-c637-a22b7f6f4103
 ---

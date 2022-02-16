@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supporting file for doppler.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/d3af93ce46eedd1587335b1c62712346_doppler_files.zip
+file: /media/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/d3af93ce46eedd1587335b1c62712346_doppler_files.zip
 file_type: application/zip
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: doppler_files.zip
 uid: d3af93ce-46ee-dd15-8733-5b1c62712346
