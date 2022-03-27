@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
+parent_uid: aa720747-bfe2-cb8b-c637-a22b7f6f4103
 resourcetype: Other
 title: doppler_files.zip
 uid: d3af93ce-46ee-dd15-8733-5b1c62712346

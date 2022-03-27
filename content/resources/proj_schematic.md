@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: SupplementalResourceSection
+parent_uid: aa720747-bfe2-cb8b-c637-a22b7f6f4103
 resourcetype: Image
 title: proj_schematic.jpg
 uid: 229c579d-666d-cb34-c908-92607f4e6809

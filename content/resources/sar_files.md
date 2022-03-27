@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
+parent_uid: aa720747-bfe2-cb8b-c637-a22b7f6f4103
 resourcetype: Other
 title: sar_files.zip
 uid: 22f9536b-6536-1a75-c261-6843cac27654

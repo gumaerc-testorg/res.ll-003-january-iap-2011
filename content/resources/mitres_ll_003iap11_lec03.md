@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: 3ff6b421-4d6c-bf3e-0871-ac6514085bf0
 resourcetype: Document
 title: MITRES_LL_003IAP11_lec03.pdf
 uid: 447d0553-2d0c-2fee-c1ee-7d6764953d52
