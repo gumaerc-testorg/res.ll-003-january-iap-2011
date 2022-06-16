@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents supporting videos, links about the radar kit's dissemination
+  to other students and courses, and media coverage about the MIT IAP course.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Related Resources
