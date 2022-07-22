@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page gives course prerequisites, objectives, and a summary calendar.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: 0ab13e4b-e265-09b0-aa36-c771f0ada9e8
 ---
