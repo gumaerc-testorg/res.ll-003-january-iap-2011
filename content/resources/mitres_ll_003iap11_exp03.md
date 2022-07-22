@@ -5,6 +5,7 @@ file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-do
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_LL_003IAP11_exp03.pdf
 uid: c5e89e34-d0af-fe08-2075-ec25449777ff
 ---
 This resource contains information related to synthetic aperture radar.
-

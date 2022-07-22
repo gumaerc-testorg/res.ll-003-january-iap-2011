@@ -5,6 +5,7 @@ file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-do
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: sar_files.zip
 uid: 22f9536b-6536-1a75-c261-6843cac27654
 ---
 This resource is a supporting file for sar.
-

@@ -14,6 +14,7 @@ image_metadata:
   image-alt: A radar signal image superimposed on an overhead photo of a large steel
     scultpure, plus a photo of a student-built radar system.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-003iap11-th.jpg

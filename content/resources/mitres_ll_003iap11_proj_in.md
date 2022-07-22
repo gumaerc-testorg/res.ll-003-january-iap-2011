@@ -5,6 +5,7 @@ file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-do
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_LL_003IAP11_proj_in.pdf
 uid: 12391162-c1f8-fe2b-3e28-44a8c5794fde
 ---
 This resource contains slides describing the radar system design.
-

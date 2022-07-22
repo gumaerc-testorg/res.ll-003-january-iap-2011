@@ -5,6 +5,7 @@ file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-do
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_LL_003IAP11_lec03.pdf
 uid: 447d0553-2d0c-2fee-c1ee-7d6764953d52
 ---
 This resource contains information related to modular system RF design.
-
