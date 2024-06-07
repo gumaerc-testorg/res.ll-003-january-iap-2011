@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for sar.
 file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/22f9536b65361a75c2616843cac27654_sar_files.zip
+file_size: 46855943
 file_type: application/zip
 learning_resource_types:
 - Projects
