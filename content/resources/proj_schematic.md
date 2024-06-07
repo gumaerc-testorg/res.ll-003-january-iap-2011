@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/229c579d666dcb34c90892607f4e6809_proj_schematic.jpg
+file_size: 451513
 file_type: image/jpeg
 image_metadata:
   caption: Circuit schematic.
