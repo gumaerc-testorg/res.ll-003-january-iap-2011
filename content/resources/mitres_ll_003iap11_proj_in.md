@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains slides describing the radar system design.
-file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/12391162c1f8fe2b3e2844a8c5794fde_MITRES_LL_003IAP11_proj_in.pdf
+file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/12391162c1f8fe2b3e2844a8c5794fde_MITRES_LL_003IAP11_proj_in.pdf
 file_size: 4727713
 file_type: application/pdf
 learning_resource_types:
