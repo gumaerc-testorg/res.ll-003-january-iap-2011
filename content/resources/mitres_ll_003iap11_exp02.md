@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to laptop based radar.
-file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/79971a280ef1714dbff62f9cf104ee04_MITRES_LL_003IAP11_exp02.pdf
+file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/79971a280ef1714dbff62f9cf104ee04_MITRES_LL_003IAP11_exp02.pdf
 file_size: 168332
 file_type: application/pdf
 learning_resource_types:

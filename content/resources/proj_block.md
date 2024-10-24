@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/04ac574b7f8034ef3832511e2fbd69b9_proj_block.jpg
+file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/04ac574b7f8034ef3832511e2fbd69b9_proj_block.jpg
 file_size: 312578
 file_type: image/jpeg
 image_metadata:
