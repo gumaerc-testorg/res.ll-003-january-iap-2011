@@ -5,7 +5,7 @@ description: "A synthetic aperture radar (SAR) image of Alexander Calder\u2019s 
   \ Google Maps satellite image \xA9 Google and GeoEye.  All rights reserved. This\
   \ content is excluded from our Creative Commons license. For more information, see\
   \ http://ocw.mit.edu/fairuse.)"
-file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/b71bcfcc97f8bda90bf52381a48f82fb_res-ll-003iap11.jpg
+file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/b71bcfcc97f8bda90bf52381a48f82fb_res-ll-003iap11.jpg
 file_size: 38043
 file_type: image/jpeg
 image_metadata:

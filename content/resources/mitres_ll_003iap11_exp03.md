@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to synthetic aperture radar.
-file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/c5e89e34d0affe082075ec25449777ff_MITRES_LL_003IAP11_exp03.pdf
+file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/c5e89e34d0affe082075ec25449777ff_MITRES_LL_003IAP11_exp03.pdf
 file_size: 862569
 file_type: application/pdf
 learning_resource_types:
