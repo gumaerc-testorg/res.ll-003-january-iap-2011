@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains sample results on the student projects.
-file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/38ec8828ee8e9ac4edd667d919de8fb8_MITRES_LL_003IAP11_proj_re.pdf
+file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/38ec8828ee8e9ac4edd667d919de8fb8_MITRES_LL_003IAP11_proj_re.pdf
 file_size: 6065678
 file_type: application/pdf
 learning_resource_types:
