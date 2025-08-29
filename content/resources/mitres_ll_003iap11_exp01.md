@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to doppler experiment.
-file: /courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/7eb87430d1177b13aa1e109a17b6c279_MITRES_LL_003IAP11_exp01.pdf
+file: /ol-ocw-studio-app/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/7eb87430d1177b13aa1e109a17b6c279_MITRES_LL_003IAP11_exp01.pdf
 file_size: 287397
 file_type: application/pdf
 learning_resource_types:
