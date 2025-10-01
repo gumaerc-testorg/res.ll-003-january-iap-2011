@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -26,4 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: Zr78A6cJDa4
 ---
-IEEE Spectrum Senior Editor Dave Schneider builds and test the radar at home: "[Coffee-Can Radar](http://spectrum.ieee.org/geek-life/hands-on/coffeecan-radar)." IEEE Spectrum, November 2012. (This video is from [spectrummag](http://www.youtube.com/user/spectrummag) via YouTube, and is not covered by our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+IEEE Spectrum Senior Editor Dave Schneider builds and test the radar at home: "{{% resource_link "aac36e15-5904-434c-9513-d4d2b4c8ceea" "Coffee-Can Radar" %}}." IEEE Spectrum, November 2012. (This video is from {{% resource_link "430164ec-30d2-47f3-b40d-6cb727788547" "spectrummag" %}} via YouTube, and is not covered by our {{% resource_link "cd3edf17-0b60-40a6-b619-0a120f4ffe14" "Creative Commons license" %}}.)

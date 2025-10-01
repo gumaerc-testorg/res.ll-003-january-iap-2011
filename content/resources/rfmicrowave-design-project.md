@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -25,4 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: VaTdotYE_dw
 ---
-UC Davis EE students build and test a radar for their senior RF/Microwave design project. (This video is from [UCDart](http://www.youtube.com/user/UCDart) via YouTube, and is not covered by our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+UC Davis EE students build and test a radar for their senior RF/Microwave design project. (This video is from {{% resource_link "74ad1eab-9fc8-45e2-b4a0-7125b9ae45d8" "UCDart" %}} via YouTube, and is not covered by our {{% resource_link "cd3edf17-0b60-40a6-b619-0a120f4ffe14" "Creative Commons license" %}}.)

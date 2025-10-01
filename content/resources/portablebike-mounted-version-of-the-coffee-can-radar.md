@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -26,4 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: idkDrHQES0U
 ---
-A University of Vermont senior design project creates a portable/bike mounted version of the coffee can radar. (This video is from [Jrpotivn](http://www.youtube.com/user/Jrpotvin) via YouTube, and is not covered by our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+A University of Vermont senior design project creates a portable/bike mounted version of the coffee can radar. (This video is from {{% resource_link "c7536397-b274-4f2e-a085-53331035f555" "Jrpotivn" %}} via YouTube, and is not covered by our {{% resource_link "cd3edf17-0b60-40a6-b619-0a120f4ffe14" "Creative Commons license" %}}.)
