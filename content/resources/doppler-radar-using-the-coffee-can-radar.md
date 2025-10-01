@@ -2,7 +2,7 @@
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: null
 file_type: ''
 image_metadata:
   caption: ''
@@ -26,4 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: FOWopYv-JTM
 ---
-Dr. Charvat explains and demonstrates Doppler Radar using the Coffee Can Radar. (This video is from [Gregory Charvat](http://www.youtube.com/user/charvatg) via YouTube, and is not covered by our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+Dr. Charvat explains and demonstrates Doppler Radar using the Coffee Can Radar. (This video is from {{% resource_link "603cc0c0-853c-400e-91cc-e56968c3e8c5" "Gregory Charvat" %}} via YouTube, and is not covered by our {{% resource_link "cd3edf17-0b60-40a6-b619-0a120f4ffe14" "Creative Commons license" %}}.)

@@ -93,4 +93,4 @@ Selected student team websites
 
 *   [Team 1](https://web.archive.org/web/20110417013040/http://web.mit.edu/kimt/www/radar/
     ) (winner of the class imaging contest)
-*   [Team 2](http://goretkin.blogspot.com/)
+*   {{% resource_link "6dd36c5c-2026-48ea-8c51-e8cc2f04e2f6" "Team 2" %}}
